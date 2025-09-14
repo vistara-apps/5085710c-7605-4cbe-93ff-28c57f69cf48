@@ -1,0 +1,14 @@
+{
+  "name": "CryptoPulse",
+  "description": "CryptoPulse is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://5085710c-7605-4cbe-93ff-28c57f69cf48.vercel.app",
+  "properties": {
+    "app": {
+      "name": "CryptoPulse",
+      "description": "CryptoPulse is a Base Mini App built with Zara.",
+      "url": "https://5085710c-7605-4cbe-93ff-28c57f69cf48.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
